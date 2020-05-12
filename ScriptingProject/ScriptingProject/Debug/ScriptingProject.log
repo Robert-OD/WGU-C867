@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ScriptingProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  roster.cpp
+C:\Users\odonn\source\repos\ScriptingProject\ScriptingProject\roster.cpp(163,21): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  student.cpp
+  Generating Code...
+  ScriptingProject.vcxproj -> C:\Users\odonn\source\repos\ScriptingProject\Debug\WGU C867 JYM1 Task 1.exe
